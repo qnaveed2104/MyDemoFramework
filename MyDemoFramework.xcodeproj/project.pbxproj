@@ -25,22 +25,9 @@
 		7056A11D2D1DB3E50071096B /* MyDemoFrameworkTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MyDemoFrameworkTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
-/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		70DE32832D1DBB2600723B15 /* Exceptions for "MyDemoFramework" folder in "MyDemoFramework" target */ = {
-			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
-			membershipExceptions = (
-				Package.swift,
-			);
-			target = 7056A1122D1DB3E50071096B /* MyDemoFramework */;
-		};
-/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
-
 /* Begin PBXFileSystemSynchronizedRootGroup section */
 		7056A1152D1DB3E50071096B /* MyDemoFramework */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			exceptions = (
-				70DE32832D1DBB2600723B15 /* Exceptions for "MyDemoFramework" folder in "MyDemoFramework" target */,
-			);
 			path = MyDemoFramework;
 			sourceTree = "<group>";
 		};
